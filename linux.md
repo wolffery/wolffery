@@ -42,15 +42,16 @@ killall 进程名         // 终止一组进程
 
 **管理服务运行状态**
 
-​		systemctl start|stop|status|restart|reload 服务名
+​		systemctl start、stop、status、restart、reload 服务名
 
-​		分别指启动|停止|查看状态|重启|重新加载 服务
+​		分别指启动、停止、查看状态、重启、重新加载 服务
 
 **管理服务启动状态**
 
-​		systemctl enable|disable|is-enabled 服务名
+​		systemctl enable、disable、is-enabled 服务名
 
-​		分别指开机自动启动|禁止自动启动|查看启动状态
+​		分别指开机自动启动、禁止自动启动、查看启动状态
+
 
 
 
